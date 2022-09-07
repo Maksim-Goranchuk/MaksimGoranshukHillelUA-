@@ -1,7 +1,7 @@
 package less4Animal;
 
 public class Animal implements AnimalInterface {
-    private double animalDistanceRun,  animalDistanceSwim;
+    private double animalDistanceRun, animalDistanceSwim;
 
     Animal(double animalDistanceRun, double animalDistanceSwim) {
         this.animalDistanceRun = animalDistanceRun;

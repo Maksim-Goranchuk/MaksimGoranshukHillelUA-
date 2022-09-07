@@ -1,6 +1,6 @@
-package Less3;
+package Less3.Less3e;
 
-import javax.naming.Name;
+import Less3.Less3e.Employee;
 
 public class EmployeeNew {
         public static void main(String[] args) {
@@ -14,14 +14,5 @@ public class EmployeeNew {
             result = a2.getInfo();
             System.out.print(result+"\n");
             System.out.println(a1);
-
-
-
-
-
-
-
-
-
 
 }}

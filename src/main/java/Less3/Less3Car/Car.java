@@ -1,4 +1,4 @@
-package Less3Car;
+package Less3.Less3Car;
 
 public class Car {
     boolean startElectricity;

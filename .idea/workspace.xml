@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64a520f4-c2e9-44be-b01c-64d1b4f77b1a" name="Changes" comment="Less 4 Animal">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Less3/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Less3/Less3e/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Less3/EmployeeNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Less3/Less3e/EmployeeNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Less3Car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Less3/Less3Car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Less3Car/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Less3/Less3Car/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less4Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less4Animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less4Animal/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less4Animal/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less4Animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less4Animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less4Animal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less4Animal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DwVKRglw0Erc0MVDOS0kOLhXsG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="less4Animal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Hillel\Новая папка\MaksimGoranshukHillelUA\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Less3Car.CarTest" />
+      <module name="MaksimGoranshukHillelUA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Less3Car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Less3.Less3e.EmployeeNew" />
+      <module name="MaksimGoranshukHillelUA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Less3.Less3e.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MaksimGoranshukHillelUA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less4Animal.Main" />
+      <module name="MaksimGoranshukHillelUA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="less4Animal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Less3.EmployeeNew" />
+        <item itemvalue="Application.CarTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64a520f4-c2e9-44be-b01c-64d1b4f77b1a" name="Changes" comment="" />
+      <created>1661610072430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661610072430</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Car In progres">
+      <created>1661616261248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661616261248</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Less 4 Animal">
+      <created>1662135254398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662135254398</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="4e56cb96-56f1-4e0e-8922-33f3c7985f20">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="MaksimGoranshukHillelUA/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="4e56cb96-56f1-4e0e-8922-33f3c7985f20" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="С Car Я еще поработаю ю" />
+    <MESSAGE value="С Car Я еще поработаю ." />
+    <MESSAGE value="Car In progres" />
+    <MESSAGE value="Less 4 Animal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Less 4 Animal" />
+  </component>
+</project>
